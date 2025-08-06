@@ -1,9 +1,6 @@
-<!-- Titre principal -->
-<h1 align="center">Salut, moi c'est Paolo 👋</h1>
+# Hey! I'm Paolo 
 
-<p align="center">
-  Étudiant en optique, développeur passionné, et futur chercheur 🧠💡
-</p>
+French Engineering Student 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paolo-cheype/">
