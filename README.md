@@ -9,8 +9,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Currently pursuing my **Master’s degree** at <a href="https://www.institutoptique.fr/">Institut d’Optique Graduate School</a>.
-- 🔬 Exploring **cutting-edge AI** for image processing.
+- 🎓 Currently finishing my Engineering **Master’s degree** at <a href="https://www.institutoptique.fr/">Institut d’Optique Graduate School</a>.
+- 🔬 Exploring **cutting-edge AI** for image processing and AI.
 - 📚 Always learning! from algorithms to applied deep learning.
 - 🎯 Goal: Start a **PhD in Computer Vision** in the near future.
 - 🌍 Multicultural, curious, and driven by impactful innovation.
