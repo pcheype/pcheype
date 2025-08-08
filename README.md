@@ -51,5 +51,4 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/paolo-cheype/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:p.cheype05@outlook.fr"><img src="https://img.shields.io/badge/Email-ff5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.instagram.com/pa0lin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
